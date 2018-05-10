@@ -1,0 +1,19 @@
+{
+    "name": "smartbook",
+    "version": "1.0.0",
+    "description": "smartbook",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bluebird": "^3.5.1",
+        "koa": "^2.5.1",
+        "koa-body": "^2.5.0",
+        "koa-router": "^7.4.0",
+        "log4js": "^2.5.3",
+        "mysql": "^2.15.0"
+    }
+}
